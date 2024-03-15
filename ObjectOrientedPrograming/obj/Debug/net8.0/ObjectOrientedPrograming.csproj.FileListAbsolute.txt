@@ -1,0 +1,14 @@
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\bin\Debug\net8.0\ObjectOrientedPrograming.exe
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\bin\Debug\net8.0\ObjectOrientedPrograming.deps.json
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\bin\Debug\net8.0\ObjectOrientedPrograming.runtimeconfig.json
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\bin\Debug\net8.0\ObjectOrientedPrograming.dll
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\bin\Debug\net8.0\ObjectOrientedPrograming.pdb
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.AssemblyInfoInputs.cache
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.AssemblyInfo.cs
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.dll
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\refint\ObjectOrientedPrograming.dll
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.pdb
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ObjectOrientedPrograming.genruntimeconfig.cache
+C:\Users\ozgur\source\repos\ObjectOrientedPrograming\ObjectOrientedPrograming\obj\Debug\net8.0\ref\ObjectOrientedPrograming.dll
